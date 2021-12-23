@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corrinchere
+- 👋 Hi, I’m Corrin
 - 👀 I’m interested in a front-end web development or email developer role.
 - 🌱 I’m currently learning front-end web development.
 - 📫 How to reach me corrinchere@gmail.com 
