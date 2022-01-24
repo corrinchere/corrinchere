@@ -1,10 +1,16 @@
-Hi, I’m Corrin, and this is the beginning of my tech experience. 
+Hi, I'm Rin. I've got a passion for trying new things and a love for learning. 
 
-I’m interested in a front-end web development or email developer role where I can continue to grow my visual and technical skills in visually pleasing, technically efficient manner. 
+I've been having a joy learning software engineering with an emphasis on front-end development, and have recently started learning more frameworks and a backend language. 
 
-I’m currently learning more advanced JavaScript as well as other frameworks and using more APIs. 
+What I'm learning right now: 
+          REACT
+          SQL
 
-You can follow me on my #100DaysOfCode on twitter at @smitherines__ , and once each weekly project is finished, I will be posting here so you may follow along. 
+Projects I'm working on: 
+          Hiking location app that uses API and storage for profile information. 
+          Email templates.
+
+You can follow me on my #100DaysOfCode on twitter at @smitherines__ , and once each weekly project is finished, I will be posting here so you may follow along. This is week 4 of 14.
 
 - 📫 How to reach me corrinchere@gmail.com 
 
