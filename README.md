@@ -10,8 +10,6 @@ Projects I'm working on:
           Hiking location finder app. 
           Email templates.
 
-You can follow me on my #100DaysOfCode on twitter at @smitherines__ , and once each weekly project is finished, I will be posting here so you may follow along. This is week 4 of 14.
-
 - 📫 How to reach me corrinchere@gmail.com 
 
 
