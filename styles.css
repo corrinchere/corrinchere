@@ -161,13 +161,19 @@ body {
     left: 0;
     height: 34px;
     width: 34px;
-    background-color: #eee;
+    background-color: #bfdbc4;
     border-radius: 50%;
+    border: 3px solid #fff;
   }
   
   /* On mouse-over, add a grey background color */
   .label-styling:hover input ~ .radiobox {
     background-color: #8ab191;
+    
+  }
+
+  .label-styling:hover {
+      color:#fff;
   }
   
   /* When the radio button is checked, add a blue background */
@@ -203,8 +209,8 @@ body {
 }
 
 .info {
-    border: solid 2px #2D6363;
-    border-radius: 3px;
+    border: solid 3px #2D6363;
+    border-radius: 5px;
     resize: none;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -719,6 +725,9 @@ footer {
 
     @media only screen and (max-width: 650px) {
 
+        body {
+        }
+
         .skill-display {
             display: grid;
             justify-content: space-evenly;
@@ -769,6 +778,64 @@ footer {
             font-size: 30px;
         }
 
+        .fieldset {
+            max-width: 95%;
+        }
+    
+    
+    
+        .display-options {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    
+        .label-styling {
+            width: 100%;
+            position: relative;
+            padding-left: 35px;
+            margin: 15px 0;
+            cursor: pointer;
+            font-size: 22px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        
+    
+        .info {
+            border: solid 2px #2D6363;
+            border-radius: 3px;
+            resize: none;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 700;
+            background-color: transparent;
+        }
+    
+        .name-email-div {
+            width: 100%;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+        }
+    
+        .input-width {
+            width: 100%;
+            height: 35px;
+            font-size: 18px;
+            padding-left: 5px;
+            margin: 10px 0;
+        }
+    
+        .textarea-width {
+            width: 100%;
+            margin: 0;
+            font-size: 18px;
+            padding-left: 5px;
+        }
+
 
 
 
@@ -776,7 +843,6 @@ footer {
 
     @media only screen and (max-width: 400px) {
         body {
-            background-color: tomato;
         }
 
         #rin-logo {
@@ -973,7 +1039,6 @@ footer {
 
 @media only screen and (max-width: 300px) {
     body {
-        background-color: rgb(138, 255, 71);
   
     }
 
